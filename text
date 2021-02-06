@@ -1,0 +1,7 @@
+Building an API is fun, right?
+
+In this article, I will explain what APIs are, why you need them, and we'll dive into API specifications, documentation, and more.
+
+Programming is made simpler by using APIs to abstract away certain implementations, and expose actions or endpoints to developers who need to consume the endpoints when building applications.
+
+But APIs can get pretty complex depending on the application's code base and use cases. This means that testing your API endpoints might be a tricky process after developing them. Fortunately, there are amazing tools out there that I will share to help you test your APIs efficiently.
